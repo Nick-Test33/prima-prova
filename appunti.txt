@@ -1,3 +1,4 @@
 ciao
 prova
 testo fatto dalla branch "nuovi-appunti"
+genero conflitto con "master" fatto da "nuovi-appunti"
