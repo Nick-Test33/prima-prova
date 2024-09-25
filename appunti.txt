@@ -4,3 +4,4 @@ testo fatto dalla branch "nuovi-appunti"
 genero conflitto con "master" fatto da "nuovi-appunti"
 nuovo commit di "nuovi-appunti":
 prova, sempre secondo commit di "nuovi-appunti"
+aggiunta di "nuovi-appunti"
