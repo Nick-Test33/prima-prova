@@ -4,4 +4,4 @@ testo fatto dalla branch "nuovi-appunti"
 modifica della branch "master"
 genero conflitto con "master" fatto da "nuovi-appunti"
 nuova modifica di "master
-
+aggiunta di "master"
